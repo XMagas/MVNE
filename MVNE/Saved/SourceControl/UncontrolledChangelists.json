@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Levels/VisualNovelPrototype.umap",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/UI/Dialogue_HUD.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Smile.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Angry.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Laugh.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Normal.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Sad.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Shocked.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl01_Smile.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Angry.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Laugh.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Normal.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Sad.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/Sprites/T_Girl02_Shocked.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/BG/T_BG_Interior.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/BG/T_BG_Exterior02.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Textures/BG/T_BG_Exterior01.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_CharacterSettings.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_CharacterNames.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/DialogueInfoStruct.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/DataTables/Test_DataTable.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicJensFreePro-Regular.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicNeue-Angular-Regular.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Music/SW_Music.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_BG.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Choices.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Continue.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_HighPitch.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Key1.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Key2.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Key3.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Key4.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Key5.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_LowPitch.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Skip.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicJensFreePro-Regular_Font.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicNeue-Angular-Regular_Font.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualEffects.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualFXs.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/UI/DialogueChoiceButton_HUD.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_ChoicesAmount.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}
