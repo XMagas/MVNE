@@ -42,11 +42,15 @@
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/SFX/SW_Skip.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicJensFreePro-Regular_Font.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Protoyping_Assets/Fonts/ComicNeue-Angular-Regular_Font.uasset",
-				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualEffects.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualFXs.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/UI/DialogueChoiceButton_HUD.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_ChoicesAmount.uasset",
-				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/NewBlueprint.uasset"
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/UI/Dialogue_HUD.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Art/Aria_Idle_Test.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/DataTables/Test_DataTable.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Levels/VisualNovelPrototype.umap",
+				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualEffects.uasset"
 			]
 		}
 	]
