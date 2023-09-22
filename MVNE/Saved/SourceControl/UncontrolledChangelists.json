@@ -50,6 +50,11 @@
 				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Art/Aria_Idle_Test.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/DataTables/Test_DataTable.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Levels/VisualNovelPrototype.umap",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/UI/DialogueChoiceButton_HUD.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/BPI/GameModeBPI.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/VNGameMode.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/Structs/E_DialogueState.uasset",
+				"C:/Users/andre/Documents/Game Projects/MVNE GitHub/MVNE/MVNE/Content/Blueprints/UI/HUD_LogData.uasset",
 				"C:/Users/andre/Documents/Game Projects/MVNE/Content/Blueprints/Structs/E_VisualEffects.uasset"
 			]
 		}
